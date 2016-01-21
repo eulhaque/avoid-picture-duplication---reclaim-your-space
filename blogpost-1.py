@@ -1,4 +1,4 @@
-#BlogPost: http://enamulhaq.com/blog/edit/avoid-picture-duplication---reclaim-your-space
+#BlogPost: http://enamulhaq.com/blog/avoid-picture-duplication---reclaim-your-space
 
 import os
 from collections import defaultdict
